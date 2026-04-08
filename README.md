@@ -55,6 +55,9 @@ El fork creado en el boton <>code se copia el URL del repositorio y usando el co
 Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 ![Verificacion](images/captura3.png)
 
+
+![Commits](images/captura4.png)
+
 ---
 
 ## Pregunta 2 (1 punto)
