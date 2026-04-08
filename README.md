@@ -45,15 +45,15 @@
 
 - ¿Cómo se realizó el fork?
 El fork se realizo con el boton de la esquina derecha fork y create new fork.
-![fork](captura1.png)
+![fork](images/captura1.png)
 
 - ¿Cómo se realizó el clone del fork?
 El fork creado en el boton <>code se copia el URL del repositorio y usando el comando "git clone url"
-![clonar repositorio](captura2.png)
+![clonar repositorio](images/captura2.png)
 
 - ¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?
 Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
-![Verificacion](captura3.png)
+![Verificacion](images/captura3.png)
 
 ---
 
