@@ -177,8 +177,18 @@ Git Flow es especialmente útil en equipos de trabajo porque permite que cada de
 - El número y enlace al pull request.
 
 **📝 Respuesta:**
+**¿Qué es un Pull Request?**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+Un **Pull Request (PR)** es una solicitud para fusionar los cambios de una rama
+hacia otra en GitHub. Permite que el equipo revise y apruebe el código antes de
+integrarlo a la rama principal, asegurando su calidad.
+
+- Proceso
+![paso 1](images/captura115.png)
+Cambia de rama de main a develop.
+
+
+
 
 ---
 
