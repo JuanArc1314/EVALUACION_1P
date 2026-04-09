@@ -86,8 +86,6 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 - Segundo commit
 ![Añade archivos de prueba](images/captura7.png)
 
-![Commits](images/captura9.png)
-
 - Tercer commit
 ## ¿Función del archivo .gitignore?
 
@@ -144,12 +142,14 @@ finaliza el feature usando el comando "git flow feature finish ingresar-encabeza
 Fusina las ramas main y develop para que esten con los mismos cambios.
 
 - Comandos utilizados
-git flow init
-git flow feature start ingresar-encabezado
-git flow feature finish ingresar-encabezado
-git checkout main
-git merge develop
+  - git flow init
+  - git flow feature start ingresar-encabezado
+  - git flow feature finish ingresar-encabezado
+  - git checkout main
+  - git merge develop
 
+- Reflecion git flow
+Git Flow es especialmente útil en equipos de trabajo porque permite que cada desarrollador trabaje en su propia rama feature sin afectar el código estable. La rama develop actúa como zona de integración antes de llegar a main, reduciendo errores en producción. En proyectos de larga duración facilita la gestión de versiones y correcciones urgentes mediante ramas hotfix, manteniendo el historial ordenado y trazable.
 ---
 
 ## Pregunta 4 (2 puntos)
