@@ -215,8 +215,12 @@ Agregue primer comentario pidiendo agregar respuesta para la segunda pregunta de
 ![paso 7](images/captura21.png)
 Se repsonde a la pregunta 2 de la pregunta 4, se hace el respectivo commit y el pull a la reama develop del repositorio remoto.
 
+![paso 8](images/captura22.png)
+![paso 8](images/captura23.png)
+Se repsonde a la pregunta 3 de la pregunta 4, se hace el respectivo commit y el pull a la reama develop del repositorio remoto.
 
-
+![paso 9](images/captura24.png)
+Merge confirmado
 ---
 
 ## Pregunta 5 (2 puntos)
