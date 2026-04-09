@@ -183,12 +183,25 @@ Un **Pull Request (PR)** es una solicitud para fusionar los cambios de una rama
 hacia otra en GitHub. Permite que el equipo revise y apruebe el código antes de
 integrarlo a la rama principal, asegurando su calidad.
 
+**¿Por qué revisarlo antes de fusionar?**
+
+Porque permite detectar errores y conflictos antes de que lleguen a producción.
+También facilita el aprendizaje entre el equipo, ya que otros desarrolladores
+pueden sugerir mejoras.
+
 - Proceso
-![paso 1](images/captura115.png)
+![paso 1](images/captura15.png)
 Cambia de rama de main a develop.
 
+![paso 2](images/captura16.png)
+Se respondio a la primera pregunta, se añadio con "git add .", se hizo commit y se hizo push a la rama develop del repositorio remoto.
 
+![paso 3](images/captura17.png)
+![paso 4](images/captura18.png)
+Crea el pull request.
 
+![paso 5](images/captura19.png)
+Agregue primer comentario pidiendo agregar respuesta para la segunda pregunta de la pregunta 4.
 
 ---
 
