@@ -56,7 +56,7 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 ![Verificacion](images/captura3.png)
 
 
-![Commits](images/captura4.png)
+-![Commits](images/captura4.png)
 
 ---
 
@@ -79,8 +79,22 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
+- Primer commit
+![Añade .gitignore](images/captura5.png)
+![Añade .gitignore](images/captura6.png)
 
+- Segundo commit
+![Añade archivos de prueba](images/captura7.png)
+
+
+## ¿Función del archivo .gitignore?
+
+El archivo .gitignore le indica a Git qué archivos o carpetas debe ignorar
+y no rastrear en el control de versiones. Es útil para excluir archivos
+temporales, logs, credenciales o carpetas generadas automáticamente que no
+necesitan subirse al repositorio.
+
+![No hay seguimiento a los archivos creados dentro de doc/](images/captura8.png)
 ---
 
 ## Pregunta 3 (2 puntos)
