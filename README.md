@@ -127,7 +127,28 @@ necesitan subirse al repositorio.
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+- Proceso
+![paso 1](images/captura10.png)
+Se inicia el git flow usando "git flow init"
+
+![paso 2](images/captura11.png)
+Se crea el feature usando el comando "git flow feature start ingresar-encabezado"
+
+![paso 3](images/captura12.png)
+Se cambia los datos del encabezado y se hace commit usando el comando "git commit -m"
+
+![paso 4](images/captura13.png)
+finaliza el feature usando el comando "git flow feature finish ingresar-encabezado"
+
+![paso 5](images/captura14.png)
+Fusina las ramas main y develop para que esten con los mismos cambios.
+
+- Comandos utilizados
+git flow init
+git flow feature start ingresar-encabezado
+git flow feature finish ingresar-encabezado
+git checkout main
+git merge develop
 
 ---
 
