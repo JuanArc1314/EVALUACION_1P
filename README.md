@@ -56,7 +56,7 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 ![Verificacion](images/captura3.png)
 
 
--![Commits](images/captura4.png)
+- ![Commits](images/captura4.png)
 
 ---
 
@@ -86,7 +86,7 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 - Segundo commit
 ![Añade archivos de prueba](images/captura7.png)
 
--![Commits](images/captura9.png)
+- ![Commits](images/captura9.png)
 
 - Tercer commit
 ## ¿Función del archivo .gitignore?
