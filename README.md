@@ -3,8 +3,8 @@
 ### Carrera de [Nombre de la Carrera]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Juan Arcos 
+**Fecha:** 08/04/2026 
 
 ---
 
@@ -56,7 +56,7 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 ![Verificacion](images/captura3.png)
 
 
-- ![Commits](images/captura4.png)
+![Commits](images/captura4.png)
 
 ---
 
@@ -86,7 +86,7 @@ Se utilizo el comando "git remote -v" que muestra el url del fork realizado.
 - Segundo commit
 ![Añade archivos de prueba](images/captura7.png)
 
-- ![Commits](images/captura9.png)
+![Commits](images/captura9.png)
 
 - Tercer commit
 ## ¿Función del archivo .gitignore?
@@ -97,6 +97,8 @@ temporales, logs, credenciales o carpetas generadas automáticamente que no
 necesitan subirse al repositorio.
 
 ![No hay seguimiento a los archivos creados dentro de doc/](images/captura8.png)
+
+![Commits](images/captura9.png)
 ---
 
 ## Pregunta 3 (2 puntos)
