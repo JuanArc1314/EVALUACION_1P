@@ -189,6 +189,14 @@ Porque permite detectar errores y conflictos antes de que lleguen a producción.
 También facilita el aprendizaje entre el equipo, ya que otros desarrolladores
 pueden sugerir mejoras.
 
+**Validaciones durante la revisión**
+
+- El código funciona y no rompe funcionalidades existentes
+- Sigue los estándares y convenciones del equipo
+- No introduce vulnerabilidades de seguridad
+- Los mensajes de commit son claros y descriptivos
+- No hay conflictos con la rama destino
+
 - Proceso
 ![paso 1](images/captura15.png)
 Cambia de rama de main a develop.
@@ -202,6 +210,12 @@ Crea el pull request.
 
 ![paso 5](images/captura19.png)
 Agregue primer comentario pidiendo agregar respuesta para la segunda pregunta de la pregunta 4.
+
+![paso 6](images/captura20.png)
+![paso 7](images/captura21.png)
+Se repsonde a la pregunta 2 de la pregunta 4, se hace el respectivo commit y el pull a la reama develop del repositorio remoto.
+
+
 
 ---
 
