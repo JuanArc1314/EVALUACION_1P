@@ -221,6 +221,7 @@ Se repsonde a la pregunta 3 de la pregunta 4, se hace el respectivo commit y el 
 
 ![paso 9](images/captura24.png)
 Merge confirmado
+
 ---
 
 ## Pregunta 5 (2 puntos)
@@ -278,4 +279,9 @@ Merge confirmado
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 6 -->
+![paso 1](images/captura25.png)
+develop al dia con los commits.
+
+![paso 2](images/captura26.png)
+![paso 3](images/captura27.png)
+main al dia con los tags.
